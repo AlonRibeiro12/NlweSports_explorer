@@ -2,7 +2,7 @@
 
 > Trilha Explorer 🟦
 
-![preview](screnshot.PNG)
+![preview](bgh.PNG)
 
 Projeto desenvolvido na Next Level Week 9º edição - eSports evento da Rocketseat💜!
 
